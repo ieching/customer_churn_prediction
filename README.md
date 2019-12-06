@@ -7,4 +7,5 @@ Feature Selection Methods:
 - Recursive Feature Elimination (RFE)
 - Select From Model (SFM)
 - Regularization
+- Correlation and p-value
 - Random Forest Classifier
