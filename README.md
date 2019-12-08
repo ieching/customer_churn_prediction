@@ -5,6 +5,5 @@ Dataset: https://www.kaggle.com/blastchar/telco-customer-churn
 
 Feature Selection Methods:
 - Recursive Feature Elimination (RFE)
-- Select From Model (SFM)
-- Correlation and p-value
+- Regularization Select From Model (SFM)
 - Random Forest Classifier
